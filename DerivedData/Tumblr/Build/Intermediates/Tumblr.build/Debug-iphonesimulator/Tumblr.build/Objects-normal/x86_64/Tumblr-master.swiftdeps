@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "a754654ee0c6326ac71233657da81378"
+build_time: [530068712, 401249000]
+inputs:
+  "/Users/lqf510/Desktop/codePath/Tumblr/LoginViewController.swift": [530067525, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/SearchViewController.swift": [529801423, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/TrendingViewController.swift": [529804059, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/ViewController.swift": [529799717, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/AccountViewController.swift": [529802595, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/TabBarViewController.swift": [530068712, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/ComposeViewController.swift": [530066421, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/AppDelegate.swift": [529799717, 0]
+  "/Users/lqf510/Desktop/codePath/Tumblr/Tumblr/HomeViewController.swift": [529801350, 0]
